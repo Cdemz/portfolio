@@ -1,8 +1,8 @@
 import React from 'react'
 import withr from '../../assests/for real/with.png'
-import FaAward from 'react-icons/fa'
-import FiUsers from 'react-icons/fi'
-import VscFolderLibrary from 'react-icons/vsc'
+import {FaAward }from 'react-icons/fa'
+import {FiUsers} from 'react-icons/fi'
+import {VscFolderLibrary} from 'react-icons/vsc'
 import './About.css'
 
 const About = () => {
@@ -37,8 +37,12 @@ const About = () => {
               <h5>Project</h5>
               <small>80+ Project</small>
             </article>
-
           </div>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit ea fugit saepe sit, sunt exercitationem vero error hic, illo sint autem facere alias officiis accusantium sed possimus dignissimos sapiente ipsum!
+          </p>
+
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
