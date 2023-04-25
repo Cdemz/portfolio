@@ -32,7 +32,7 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .container .testimonial__container {
+  .container.testimonials__container {
     width: 60%;
   }
 }
