@@ -9,7 +9,7 @@ const HeaderSocial = () => {
         <a href="https:www.linkedin.com/in/ademola-adepoju-6ab37526b" target='_blank' rel="noreferrer">
             <BsLinkedin />
         </a>
-        <a href="https:www.linkedin.com/in/ademola-adepoju-6ab37526b" target='_blank' rel="noreferrer" >
+        <a href="https:www.github.com/cdemz" target='_blank' rel="noreferrer" >
             <BsGithub />
         </a>
 

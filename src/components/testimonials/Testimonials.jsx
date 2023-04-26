@@ -19,28 +19,28 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Tina Show',
-    reveiw: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tempora ab consectetur ipsam commodi blanditiis? Odit veniam culpa rerum, facere fugiat doloribus reiciendis, nobis ratione sunt architecto eos, possimus placeat!',
+    reveiw: "He has been able to bring my ideas to life with his coding expertise, and he has also helped to improve my website's functionality and user experience. Additionally, Ademola's content creation skills have been invaluable in making my website more engaging and user-friendly.",
   },
 
   
   {
     avatar: AVTR2,
     name: 'Shatta Wale',
-    reveiw: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tempora ab consectetur ipsam commodi blanditiis? Odit veniam culpa rerum, facere fugiat doloribus reiciendis, nobis ratione sunt architecto eos, possimus placeat!',
+    reveiw: "I am very happy with Ademola Adepoju's work as a frontend developer and content creator. His attention to detail and ability to bring my ideas to life has greatly improved my website's functionality and user experience. Ademola is easy to work with, communicates effectively, and has a great attitude. I highly recommend him to anyone in need of a skilled developer and content creator.",
   },
 
   
   {
     avatar: AVTR3,
-    name:' Kwame Despirado',
-    reveiw: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tempora ab consectetur ipsam commodi blanditiis? Odit veniam culpa rerum, facere fugiat doloribus reiciendis, nobis ratione sunt architecto eos, possimus placeat!',
+    name:' Leigh Ola',
+    reveiw: "A true professional who is easy to work with and has a great attitude. He communicates effectively and always keeps me in the loop with updates on the project. I highly recommend Ademola to anyone who needs a skilled developer for their website.",
   },
 
   
   {
     avatar: AVTR4,
     name: 'Rayyan Ryan',
-    reveiw: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tempora ab consectetur ipsam commodi blanditiis? Odit veniam culpa rerum, facere fugiat doloribus reiciendis, nobis ratione sunt architecto eos, possimus placeat!',
+    reveiw: 'I recently hired Ademola to work on the frontend development and content creation of my website. I must say that I am extremely impressed with his work so far. He is a very talented and skilled developer who has a keen eye for detail.',
   },
 
   

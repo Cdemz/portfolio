@@ -10,6 +10,11 @@ footer a {
   color: var(--color-bg);
 }
 
+footer a img {
+  height: 2rem;
+  width: auto;
+}
+
 .footer__logo {
   font-size: 2rem;
   font-weight: 500;

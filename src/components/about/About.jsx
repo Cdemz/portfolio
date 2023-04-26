@@ -29,7 +29,7 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className= 'about__icon'/>
               <h5>Client</h5>
-              <small>300+ Clients Worldwide</small>
+              <small>100+ Clients Worldwide</small>
             </article>
 
             <article className='about__card'>
@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit ea fugit saepe sit, sunt exercitationem vero error hic, illo sint autem facere alias officiis accusantium sed possimus dignissimos sapiente ipsum!
+          Hi, I'm Ademola Adepoju, a frontend developer and branding agent with a passion for creating beautiful and effective digital experiences. With 3+ years of experience in web development, I've honed my skills in HTML, CSS, JavaScript, and other web technologies to deliver responsive, user-friendly websites that reflect the unique brand identity of my clients. As a branding agent, I also help businesses establish a strong visual identity, from logos and color schemes to typography and overall design aesthetics. Whether you need a new website, a brand refresh, or both, I'm here to help you make a lasting impact online.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

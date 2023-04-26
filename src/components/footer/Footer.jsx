@@ -3,11 +3,12 @@ import './Footer.css'
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
+import logo1 from '../../assests/for real/cloud.png'
 
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>LOGO</a>
+      <a href="#" className='footer__logo'> <img src={logo1} alt="my logo" className='logo1' /> </a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
@@ -20,9 +21,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF /></a>
-        <a href="https://instagram.com"><FiInstagram /></a>
-        <a href="https://twitter.com"><IoLogoTwitter /></a>
+        <a href="https://facebook.com/ademola.adepoju.5015" target='_blank' rel="noreferrer"><FaFacebookF /></a>
+        <a href="https://instagram.com/cdemz_gram?igshid=ZDdkNTZiNTM" target='_blank' rel="noreferrer"><FiInstagram /></a>
+        <a href="https://twitter.com/Ad_twi_artworks?s=09" target='_blank' rel="noreferrer"><IoLogoTwitter /></a>
       </div>
 
       <div className="footer__copyright">
